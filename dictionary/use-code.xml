@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GBK"?>
+<choice name="useCode">
+  <entry key="K00" value="快捷支付" />
+  <entry key="F00" value="分期" />
+  <entry key="B00" value="行业代扣" />
+</choice>
+

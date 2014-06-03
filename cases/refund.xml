@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<case name="Single Refund" desc="Single Refund">
+  <request tag="SRReq" desc="Single Refund Request">
+    <field name="version" />
+    <field name="instId" />
+    <field name="certId" />
+    <field name="serialNo" />
+    <field name="date" />
+    <field name="amount" show="true" />
+    <field name="currency" show="true" />
+    <field name="originalSerialNo" show="true" />
+    <field name="originalDate" show="true" />
+    <field name="originalTime" show="true" />
+    <field name="channelSystemId" show="true" />
+  </request>
+  <response tag="SRRes" desc="SIngle Refund Response">
+    <field name="version" present="mandate" />
+    <field name="instId" present="mandate" />
+    <field name="certId" present="mandate" />
+    <field name="date" present="mandate" />
+    <field name="bankCardNo" present="mandate" />
+    <field name="channelSystemId" present="optional" />
+  </response>
+</case>

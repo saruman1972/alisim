@@ -1,0 +1,6 @@
+(ns alisim.routes.batch-query-notify
+  (:require [compojure.core :refer :all]
+            [ring.util.response :as rur]
+            [])
+  )
+
