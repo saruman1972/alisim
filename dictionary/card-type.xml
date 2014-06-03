@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="GBK"?>
-<choice name="bankCardType">
-  <entry key="C" value="贷记卡" />
-  <entry key="D" value="借记卡" />
-  <entry key="B" value="存折" />
-</choice>
-

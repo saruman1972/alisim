@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="GBK"?>
-<choice name="limitType">
-  <entry key="LARGE" value="大额" />
-  <entry key="SMALL" value="小额" />
-</choice>
-

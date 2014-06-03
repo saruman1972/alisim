@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="GBK"?>
-<choice name="areaCode">
-  <entry key="001" value="001-branch" />
-  <entry key="002" value="002-branch" />
-  <entry key="003" value="003-branch" />
-</choice>
-

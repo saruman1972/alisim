@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="GBK"?>
-<choice name="yesOrNo">
-  <entry key="Y" value="校验" />
-  <entry key="N" value="不校验" />
-</choice>
-
