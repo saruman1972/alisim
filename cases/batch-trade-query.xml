@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<case name="Batch Trade Query" desc="Batch Trade Query">
+  <request tag="TQReq" desc="Batch Trade Query Request">
+    <field name="version" />
+    <field name="instId" />
+    <field name="certId" />
+    <field name="serialNo" />
+    <field name="date" />
+    <field name="useCode" show="true" />
+    <field name="type" show="true" />
+    <field name="checkSerialNoList" show="true" />
+    <field name="channelSystemId" show="true" />
+  </request>
+  <response tag="TQRes" desc="Batch Trade Query Response">
+    <field name="version" present="mandate" />
+    <field name="instId" present="mandate" />
+    <field name="certId" present="mandate" />
+    <field name="serialNo" present="mandate" />
+    <field name="channelSystemId" present="optional" />
+  </response>
+</case>
+

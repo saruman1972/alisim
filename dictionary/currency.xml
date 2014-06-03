@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GBK"?>
+<choice name="currency">
+  <entry key="156" value="156-RMB" />
+  <entry key="840" value="840-USD" />
+</choice>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GBK"?>
+<choice name="batchQueryType">
+  <entry key="0" value="Withdraw" />
+  <entry key="1" value="Payment" />
+  <entry key="2" value="Refund" />
+</choice>
+

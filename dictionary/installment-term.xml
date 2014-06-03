@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GBK"?>
+<choice name="installmentTerm">
+  <entry key="F0001" value="分1期" />
+  <entry key="F0003" value="分3期" />
+  <entry key="F0006" value="分6期" />
+  <entry key="F0009" value="分9期" />
+  <entry key="F0012" value="分12期" />
+  <entry key="F0018" value="分18期" />
+  <entry key="F0024" value="分24期" />
+  <entry key="F0036" value="分36期" />
+  <entry key="F0048" value="分38期" />
+  <entry key="F0060" value="分60期" />
+</choice>
+

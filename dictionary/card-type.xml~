@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="GBK"?>
+<choice name="bankCardType">
+  <entry key="D" value="Debit Card" />
+  <entry key="C" value="Debit Card" />
+  <entry key="B" value="Account" />
+</choice>
+
